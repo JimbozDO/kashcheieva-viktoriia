@@ -1,0 +1,25 @@
+# Base configs
+baseurl: "https://jimbozdo.github.io/portfolio/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Kashcheieva Viktoriia"
+subtitle: "Site portfolio"
+author: "Kashcheieva Viktoriia"
+header:
+ title: "Illustrator"
+ subtitle: "Kashcheieva Viktoriia"
+footer:
+ name: "Hey there, my name is Kashcheieva Viktoriia"
+ bio: ""
+ github: ""
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/victoriya.piatachenko"
+  twitter: ""
+  instagram: "https://www.instagram.com/vi.ka_va/"
+  dribbble: ""
+  linkedin: ""
+  github: ""
